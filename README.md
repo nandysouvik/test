@@ -1,5 +1,19 @@
 # BDB AI Website - Technical Knowledge Transfer Guide
 
+<div style="background-color: #e3f2fd; border: 2px solid #2196f3; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center;">
+  <h3 style="margin-top: 0; color: #1976d2;">📄 Download PDF Version</h3>
+  <p style="margin: 10px 0;">Click the button below to download this document as PDF</p>
+  <button onclick="window.print()" style="background-color: #2196f3; color: white; border: none; padding: 12px 30px; font-size: 16px; border-radius: 5px; cursor: pointer; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+    🖨️ Download as PDF
+  </button>
+  <p style="margin: 10px 0; font-size: 14px; color: #666;">
+    <strong>Instructions:</strong> Click the button above, then select "Save as PDF" as the destination when the print dialog appears.
+  </p>
+  <p style="margin: 5px 0; font-size: 12px; color: #999;">
+    Or press <kbd style="background-color: #f5f5f5; padding: 4px 8px; border-radius: 3px; border: 1px solid #ddd;">Ctrl+P</kbd> (Windows) / <kbd style="background-color: #f5f5f5; padding: 4px 8px; border-radius: 3px; border: 1px solid #ddd;">Cmd+P</kbd> (Mac)
+  </p>
+</div>
+
 ## Purpose
 This document is designed for technical team members who will be working on the BDB AI website project. It provides practical knowledge about the codebase structure, development workflow, and how to make changes.
 
@@ -1098,5 +1112,16 @@ docker exec -it my_nginx_container bash
 ```
 
 ---
+
+<div style="background-color: #f5f5f5; border-radius: 8px; padding: 20px; margin: 30px 0; text-align: center;">
+  <h3 style="margin-top: 0; color: #333;">📥 Download PDF Version</h3>
+  <p style="margin: 10px 0;">Need a PDF copy? Click the button below!</p>
+  <button onclick="window.print()" style="background-color: #2196f3; color: white; border: none; padding: 12px 30px; font-size: 16px; border-radius: 5px; cursor: pointer; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin: 10px;">
+    🖨️ Download as PDF
+  </button>
+  <p style="margin: 10px 0; font-size: 14px; color: #666;">
+    <strong>Tip:</strong> In the print dialog, select "Save as PDF" as destination, then click Save.
+  </p>
+</div>
 
 **Last Updated**: 2025
